@@ -6,3 +6,6 @@ Unifont is a 16*16 pixel font, known as the Unicode pixel font, it includes vari
 
 # Why do I make this?
 Unifont was splited into two fonts (or three, if including CSUR). One of them is for plane 0, and the other one is for plane 1 and 2 (called "Unifont_Upper"). This seems fine, except Latin Extended-E and Latin Extended-F was seperated. So I decided to split them into different scripts instead. The other reason is that I may want to add characters, but I don't want to sent them to Unifoundary. So I'll put them here instead.
+
+# Any missing characters or redundant characters?
+Tell me in the issues tab. You're welcome!
